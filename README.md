@@ -1,5 +1,7 @@
 # Data_Union_Aggregation Azure_DataFactory to Azure_Storage Blob_Pipeline
 
+We have continuous data flowing in two storage accounts named rawdata1 and rawdata2, and we want to perform union transformation and save it to target location 1, and we also want to perform aggregation based on product ID and list price information into another target location 2.
+
 # Requirement Flowchart
 ![alt text](https://github.com/DataNaija/Data_Union_Aggregation_ADF_AzureBlob_Pipeline/blob/main/flowchart.png)
 
