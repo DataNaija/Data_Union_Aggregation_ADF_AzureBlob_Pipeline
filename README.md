@@ -16,4 +16,4 @@ We have continuous data flowing in two storage accounts named rawdata1 and rawda
 # Target Blob Storage After
 ![alt text](https://github.com/DataNaija/Data_Union_Aggregation_ADF_AzureBlob_Pipeline/blob/main/targ1_after.png)
 
-![alt text](https://github.com/DataNaija/Data_Union_Aggregation_ADF_AzureBlob_Pipeline/blob/main/targ1_after.png)
+![alt text](https://github.com/DataNaija/Data_Union_Aggregation_ADF_AzureBlob_Pipeline/blob/main/targ2_after.png)
