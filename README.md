@@ -1,4 +1,4 @@
-# Data_Union_Aggregation_ADF_Bolb_Pipeline
+# Data_Union_Aggregation Azure_DataFactory to Azure_Storage Blob_Pipeline
 
 # Requirement Flowchart
 ![alt text](https://github.com/DataNaija/Data_Union_Aggregation_ADF_AzureBlob_Pipeline/blob/main/flowchart.png)
